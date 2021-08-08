@@ -6,9 +6,9 @@
         "Go"
     ],
     "filePatterns": [
-        "package.json$",
+        "xpackage.json$",
         "^Dockerfile",
-        ".*\\.md$"
+        "x.*\\.md$"
     ]
 }
 
